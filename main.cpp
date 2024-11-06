@@ -17,7 +17,7 @@ void main() // Main loop
 
 		FILELOG("N.W.A");  // Write data to files 
 
-		myFile.close();  // closes data to file
+		myFile.close();  // closes file
 
 		LOG("File created!");  // prints file created to the console 
 
